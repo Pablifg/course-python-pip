@@ -9,4 +9,4 @@ python3 main.py
 
 ### License
 
-The MIT License (https://choosealicense.com/licenses/mit/) ![(MIT)]
+The MIT License [(MIT)](https://choosealicense.com/licenses/mit/)
